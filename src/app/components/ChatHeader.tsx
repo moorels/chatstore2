@@ -15,7 +15,7 @@ const ChatHeader: FC<ChatHeaderProps> = ({}) => {
     <p className=' text-sm text-white'>Click Here to Chat:</p>
     <div className='flex items-center md:w-auto'>
         <p className='w-3 h-3 rounded-full bg-green-500 animate-pulse'/>
-        <p className='font-medium px-2 text-white '>Computer Store and Repairs</p>
+        <p className='font-medium px-2 text-white '>Dog Grooming Services</p>
         
     </div>
     </div>
